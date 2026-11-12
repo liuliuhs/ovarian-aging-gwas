@@ -86,5 +86,4 @@ required inputs and software dependencies.
 
 ## License
 
-A license has not been selected. Confirm code ownership and coauthor agreement
-before adding a license for public distribution.
+A license has not been selected. Confirm code ownership and coauthor agreement before adding a license for public distribution.
