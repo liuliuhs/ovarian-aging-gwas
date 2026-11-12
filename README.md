@@ -52,9 +52,7 @@ Rscript scripts/FigureS4B_TWAS_DEG_concordance.R path/to/legacy_workbook.xlsx ou
 ```
 
 The code retains original filtering, thresholds, colors, dimensions, labels,
-and output behavior. English comments replace Chinese comments. Obsolete
-commented code and selected standalone inspection statements were removed.
-Original source files were not overwritten.
+and output behavior. 
 
 ## Data
 
@@ -76,14 +74,6 @@ Run the following in the R environment actually used for the analysis:
 writeLines(capture.output(sessionInfo()), "sessionInfo.txt")
 ```
 
-## Code availability wording
-
-After public release, adapt the following to the actual repository URL:
-
-Selected R scripts for gene prioritization and figure generation are available
-at [repository URL]. The repository documents the scope of the shared scripts,
-required inputs and software dependencies.
-
 ## License
 
-A license has not been selected. Confirm code ownership and coauthor agreement before adding a license for public distribution.
+This project is licensed under the MIT License. See the LICENSE file for details.
